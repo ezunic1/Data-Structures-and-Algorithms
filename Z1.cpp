@@ -1,6 +1,8 @@
 #include <iostream>
 #include <stdexcept>
 
+using namespace std;
+
 template <typename tip>
 class Lista{
     public:
