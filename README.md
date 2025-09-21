@@ -1,4 +1,4 @@
-# Data Structures and Algorithms  
+# Data Structures and Algorithms (C++)
 
 This repository contains all of my assignments and preparatory tasks for the **Data Structures and Algorithms** course at university.  
 
