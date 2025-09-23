@@ -2,11 +2,11 @@
 
 This repository contains all of my assignments and preparatory tasks for the **Data Structures and Algorithms** course at university.  
 
-## 📂 Repository Contents  
+##  Repository Contents  
 - **Assignments** – official homework tasks from the course  
 - **Preparatory tasks** – practice exercises to prepare for assignments and exams  
 
-## 🛠 Topics Covered  
+##  Topics Covered  
 - Arrays, Strings, and Recursion  
 - Linked Lists (singly, doubly, circular)  
 - Stacks and Queues  
@@ -15,7 +15,7 @@ This repository contains all of my assignments and preparatory tasks for the **D
 - Sorting and Searching algorithms  
 - Complexity analysis (**Big-O notation**)  
 
-## 🚀 Purpose  
+##  Purpose  
 The repository serves as:  
 - A collection of solved exercises and assignments  
 - A personal study reference for exams  
